@@ -1,13 +1,13 @@
 # Site settings
-title: BY Sailong
+title: 赛龙笔记 | BY Sailong
 SEOTitle: 赛龙笔记 | BY Sailong
 header-img: img/post-bg-desk.jpg
-email: qiubaiying@gmail.com
-description: "每个胜利背后都有许多尝试"
-keyword: "BY, BY Blog, 柏荧的博客, qiubaiying, 邱柏荧, iOS, Apple, iPhone"
-url: "http://qiubaiying.github.io"          # your host, for absolute URL
+email: tongsailong@foxmail.com
+description: "道生一，一生二，二生三，三生万物。"
+keyword: "经济学, 税, 财务, 会计, 法, 股票, 数据, 分析"
+url: "http://tongsailong.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
-github_repo: "https://github.com/qiubaiying/qiubaiying.github.io.git" # you code repository
+github_repo: "https://github.com/tongsailong/tongsailong.github.io.git" # you code repository
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
@@ -18,11 +18,11 @@ sidebar-avatar: img/avatar-by.jpg      # use absolute URL, seeing it's used in b
 
 # SNS settings
 RSS: false
-# weibo_username:     qiubaiying
-zhihu_username:     qiubaiying
-github_username:    qiubaiying
-facebook_username:  baiying.qiu.7
-jianshu_username:   e71990ada2fd
+weibo_username:     sailong
+zhihu_username:     tongsailong
+github_username:    tongsailong
+facebook_username:  tongsailong
+#jianshu_username:   e71990ada2fd
 #twitter_username:   qiubaiying
 
 
